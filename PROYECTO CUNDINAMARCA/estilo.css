@@ -1,0 +1,28 @@
+body{
+background-color: pink;
+background-image:linear-gradient(red blue green);
+}
+H1{
+    color:aqua;
+    font-family:antiquewhite;
+    font:weight 100px;
+
+
+}
+H2{
+    Color:brown;
+    font-family: tahoma;
+    font-style: oblique;
+    font-weight: 100px;
+}
+div{
+    border: 10px solid rgb(85, 9, 148);
+    padding: 5px;
+    margin: 20px;
+   }
+
+img{
+    width:10%;
+    border-radius: 100px;
+
+}
